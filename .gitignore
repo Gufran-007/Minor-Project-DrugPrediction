@@ -1,0 +1,11 @@
+X_train.npy
+X_test.npy
+y_train.npy
+y_test.npy
+test_predictions.npy
+train_accuracies.npy
+train_losses.npy
+drug_model.pth
+vectorizer.pkl
+__pycache__/
+*.pyc
