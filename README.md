@@ -17,7 +17,7 @@ Predicts whether a drug is effective or not — just from a patient review.
 
 # How to run it
 ## 1. clone the repo
-git clone https://github.com/YOUR_USERNAME/drugnet.git
+git clone ```https://github.com/Gufran-007/Minor-Project-DrugPrediction.git```
 cd drugnet
 
 ## 2. install dependencies
@@ -37,7 +37,7 @@ cd drugnet
 
 ## 7. launch the web app
 ```python app.py```
-## open → http://127.0.0.1:5000
+#### open → ```http://127.0.0.1:5000```
 🐍 Python 3.12
 🔥 PyTorch
 🌐 Flask
